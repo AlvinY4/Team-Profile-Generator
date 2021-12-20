@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: rgb(38, 189, 38);
+    color: white;
+    font-size: larger;
+}
+
+.navbar-brand {
+    font-size: 60px;
+}
+
+header {
+    font-size: 80px; 
+}
+
+.card-header {
+    background-color: rgb(27, 146, 214); 
+    color: white;
+}
+
