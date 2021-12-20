@@ -107,7 +107,6 @@ const generateTeamPage = function (employeeCards) {
         <main>
             <div class="container">
                 <div class="row justify-content-center" id="team-cards">
-                    <!--Employee Cards  Start-->
                     ${employeeCards}
                 </div>
             </div>
